@@ -13,3 +13,8 @@
   - docs/progress/
   - database/
 - Prepared for uploading ERD export and MySQL schema
+
+## task 2 hour 4
+- Added NestJS TypeScript backend setup
+- Created Health API endpoint (/api/health)
+- Pushed update to Day 1 PR
